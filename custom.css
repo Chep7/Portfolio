@@ -41,3 +41,9 @@
 
 
 }
+main h3 {
+  color: aliceblue;
+  letter-spacing: 0ch;
+  font: caption;
+  font-family: anton static;
+}
