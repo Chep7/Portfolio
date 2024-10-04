@@ -1,0 +1,43 @@
+
+  body {
+    width: 100%;
+    height: 200vh;
+     background-image: url(images/download.jpeg);
+    background-position: center;
+    background-size: cover;
+    box-decoration-break: slice;
+  } 
+
+.nav-link {
+  font-size: 17px;
+  transition: .5s;
+}
+.nav-link:hover {
+ box-shadow: 0 0 10px violet;
+
+}
+.name-style{
+  font-weight: bold;
+  margin-left: 30px;
+  font-size: 40px;
+  font-family: Dancing Script;
+}
+.first-name {
+  font-size: 40px;
+  padding-top: 70px;
+  font-family: anton static;
+  color: antiquewhite;
+  margin: 0;
+  padding-bottom: 0;
+}
+.second-name {
+  font-size: 50px;
+  color: antiquewhite;
+  font-family: anton static;
+  /* font-family: raleway; */
+  font-weight: bolder;
+  margin: 0;
+  padding-top: 0;
+
+
+}
